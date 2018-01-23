@@ -1,0 +1,3 @@
+[submodule "TestRepo3"]
+	path = TestRepo3
+	url = git@github.com:GitPack/TestRepo3.git
